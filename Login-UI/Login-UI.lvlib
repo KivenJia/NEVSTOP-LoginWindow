@@ -25,6 +25,10 @@
 	<Item Name="Typedef" Type="Folder">
 		<Item Name="User-Info.ctl" Type="VI" URL="../_Typedef/User-Info.ctl"/>
 		<Item Name="User-Role.ctl" Type="VI" URL="../_Typedef/User-Role.ctl"/>
+		<Item Name="Login-Account.ctl" Type="VI" URL="../_Typedef/Login-Account.ctl"/>
+		<Item Name="Login-Confirm.ctl" Type="VI" URL="../_Typedef/Login-Confirm.ctl"/>
+		<Item Name="Login-Password.ctl" Type="VI" URL="../_Typedef/Login-Password.ctl"/>
+		<Item Name="Login-Admin.ctl" Type="VI" URL="../_Typedef/Login-Admin.ctl"/>
 	</Item>
 	<Item Name="Windows" Type="Folder">
 		<Item Name="AddUser-Windows.vi" Type="VI" URL="../_Windows/AddUser-Windows.vi"/>
